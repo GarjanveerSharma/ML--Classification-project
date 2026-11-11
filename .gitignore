@@ -6,5 +6,8 @@ venv/
 .env.*
 !.env.example
 .vscode/
+/images/
 /clean_classification_dataset/
+/clean_classification_dataset_backup_*/
+/clean_classification_dataset_build/
 /models/
